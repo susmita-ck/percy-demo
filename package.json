@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@percy/cli": "^1.28.7",
+    "@percy/selenium-webdriver": "^2.0.5"
+  }
+}
